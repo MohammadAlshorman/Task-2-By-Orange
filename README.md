@@ -1,2 +1,4 @@
 # Task-2-By-Orange
-Ex1 + Ex2 + Ex3 +Ex4 + Ex5 + Ex5
+
+# Ex1 
+https://github.com/MohammadAlshorman/Task-2-By-Orange/blob/main/ex%201.png?raw=true
